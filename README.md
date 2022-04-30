@@ -4,7 +4,7 @@
 간단한 WORDLE 게임을 만들어보았다. 
 
 ## 링크
-https://moaksan.github.io//
+https://moaksan.github.io/wordle/
 
 ## 사용언어
 HTML, CSS, JAVASCRIPT
